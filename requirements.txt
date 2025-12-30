@@ -7,6 +7,7 @@
 # Core Flask framework
 Flask==2.3.3
 
+pytest==7.4.3
 # Database ORM for Flask
 Flask-SQLAlchemy==3.0.5
 
