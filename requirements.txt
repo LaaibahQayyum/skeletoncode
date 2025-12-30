@@ -17,4 +17,8 @@ WTForms==3.0.1            # Form validation library
 # Development dependencies (optional)
 python-dotenv==1.0.0      # For environment variable management
 
+# Testing dependencies
+pytest==7.4.0             # Testing framework
+pytest-flask==1.2.0       # Flask testing utilities
+
 # Note: SQLite is included with Python by default, so no additional database driver is needed
